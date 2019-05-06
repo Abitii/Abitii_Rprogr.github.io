@@ -3,7 +3,7 @@ title: "Final Project"
 output: html_notebook
 ---
 
-###This function excutes zonal statistsics
+###This function executes zonal statistsics
 
 ```{r}
 ZonalStat<- function (zone.in, raster.in, shp.out,lyr.name){
@@ -93,9 +93,6 @@ Graph <- function(x){
 
 Graph("Ext.tbl.csv")
 ```
-
-
-
 
 
 
